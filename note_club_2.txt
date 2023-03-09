@@ -1,0 +1,61 @@
+Class
+Class Properties:--- Object---mem alloc---Data Members
+--------------------
+	1) Data Members---store--Data
+	2) Member Function----Data Operation Logic
+--------------------------------------------------------------
+
+Constructor:-
+-------------
+
+Java
+	Student------------s1[rno name std]
+		int rno;// 0
+		String name;null
+		int std;// 0
+
+Type of Variables:-
+-------------------
+1) Block Variable
+
+	void add()
+	{
+		int no1;
+		{
+			int no2;
+			no2=20;
+			no1=100;
+			operation 
+			print result
+		}
+		print no2;// C.E--Error
+		print no1;// 100
+	}
+
+2) local variable--methods ccreate ---
+class A
+{
+	void test()
+	{
+		int no;// local variable
+	
+	}
+}
+
+3) DM's / instance variable
+4) class level vatiable
+5) constant variable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
